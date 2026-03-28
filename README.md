@@ -1,4 +1,4 @@
-# parth.dev
+# parthkumar.dev
 
 Personal portfolio site built with Next.js 16, React 19, and Tailwind CSS.
 
