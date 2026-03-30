@@ -34,8 +34,6 @@ export default function Home() {
         }}
       />
 
-      {/* Glow at top */}
-      <div className="fixed top-0 left-1/2 -translate-x-1/2 w-96 h-96 bg-emerald-400/[0.03] rounded-full blur-3xl pointer-events-none" />
 
       <main className="relative mx-auto max-w-3xl px-6 py-10 sm:py-16 flex flex-col gap-10">
         <Hero />
